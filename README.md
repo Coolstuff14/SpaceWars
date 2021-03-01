@@ -12,5 +12,4 @@ Also have a two part YouTube video explaining the code, and a game demo.
 
 **screenshots:**
 
-[![main.jpg](https://i.postimg.cc/MHxrfmtf/main.jpg)]
-
+[![main.jpg](https://github.com/romadebrian/SpaceWars/blob/master/Screenshots.jpeg)]
