@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpaceWars.iml" filepath="$PROJECT_DIR$/SpaceWars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpaceWarsBasic.iml" filepath="$PROJECT_DIR$/.idea/modules/SpaceWarsBasic.iml" group="SpaceWarsBasic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SpaceWarsBasic-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SpaceWarsBasic-app.iml" group="SpaceWarsBasic/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
